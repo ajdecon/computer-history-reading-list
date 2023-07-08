@@ -33,9 +33,9 @@ Popular books
 - Clifford Stoll, *[The Cuckoo's Egg](https://www.amazon.com/CUCKOOS-EGG-Clifford-Stoll-ebook/dp/B0083DJXCM)*
 - Randall Stross, *[Steve Jobs & The NeXT Big Thing](https://www.amazon.com/Steve-Jobs-NeXT-Big-Thing-ebook/dp/B006VOM5V6)*
 - Doron Swade, *[The Difference Engine: Charles Babbage and the Quest to Build the First Computer](https://www.amazon.com/Difference-Engine-Charles-Babbage-Computer/dp/0142001449)*
+- Torvalds and Diamond, *[Just for Fun: The Story of an Accidental Revolutionary](https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732)*
 - Lamont Wood, *[Datapoint: The Lost Story of the Texans Who Invented the Personal Computer Revolution](https://www.amazon.com/Datapoint-Invented-Personal-Computer-Revolution/dp/1936449366)*
 - G Pascal Zachary, *[Showstopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft](https://www.amazon.com/Showstopper-Breakneck-Windows-Generation-Microsoft-ebook/dp/B00J5X5E9U)*
-- Torvalds and Diamond, *[Just for Fun: The Story of an Accidental Revolutionary](https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732)*
 
 
 Documentaries

@@ -18,6 +18,7 @@ Popular books
 - Katie Hafner, *[When Wizards Stay Up Late: The Origins of the Internet](https://www.amazon.com/Where-Wizards-Stay-Up-Late/dp/0684832674)*
 - Michael A Hiltzik, *[Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age](https://www.amazon.com/Dealers-Lightning-Xerox-PARC-Computer/dp/0887309895)*
 - Andrew Hodges, *[Alan Turing: The Enigma](https://www.amazon.com/Alan-Turing-Enigma-Inspired-Imitation/dp/069116472X)*
+- Jerry Kaplan, *[Startup: A Silicon Valley Adventure](https://www.amazon.com/dp/B00L0M749M)*
 - Brian W Kernighan, *[UNIX: A History and a Memoir](https://www.amazon.com/UNIX-History-Memoir-Brian-Kernighan/dp/1695978552)*
 - Tracy Kidder, *[The Soul of a New Machine](https://www.amazon.com/Supermen-Seymour-Technical-Wizards-Supercomputer/dp/0471048852)*
 - David Kushner, *[Masters of Doom](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155)*
@@ -29,6 +30,7 @@ Popular books
 - M Mitchell Waldrop, *[The Dream Machine](https://www.amazon.com/Dream-Machine-M-Mitchell-Waldrop/dp/1732265119)*
 - TR Reid, *[The Chip: How Two Americans Invented the Microchip and Launched a Revolution](https://www.amazon.com/Chip-Americans-Invented-Microchip-Revolution-ebook/dp/B000XU4UT4)*
 - Schein, DeLisi, Kampas, and Sonduk, *[DEC Is Dead, Long Live DEC: The Lasting Legacy of Digital Equipment Corporation](https://www.amazon.com/DEC-Dead-Long-Live-Corporation/dp/1576753050)*
+- Clifford Stoll, *[The Cuckoo's Egg](https://www.amazon.com/CUCKOOS-EGG-Clifford-Stoll-ebook/dp/B0083DJXCM)*
 - Randall Stross, *[Steve Jobs & The NeXT Big Thing](https://www.amazon.com/Steve-Jobs-NeXT-Big-Thing-ebook/dp/B006VOM5V6)*
 - Doron Swade, *[The Difference Engine: Charles Babbage and the Quest to Build the First Computer](https://www.amazon.com/Difference-Engine-Charles-Babbage-Computer/dp/0142001449)*
 - Lamont Wood, *[Datapoint: The Lost Story of the Texans Who Invented the Personal Computer Revolution](https://www.amazon.com/Datapoint-Invented-Personal-Computer-Revolution/dp/1936449366)*

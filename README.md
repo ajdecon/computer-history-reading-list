@@ -1,6 +1,13 @@
 Computer History Reading List
 =============================
 
+A collection of resources about the history of computing, with no particular strategy.
+
+PRs welcome -- I'm likely to read them if they look good!
+
+Popular books
+-------------
+
 - Brian Bagnall, *[The Story of Commodore: A Company on the Edge](https://www.amazon.com/gp/product/0973864907)*
 - Bell, Mudge, McNamara, *[Computer Engineering: A DEC View of Hardware Systems Design](https://www.amazon.com/Computer-Engineering-Hardware-Systems-Design/dp/1483207676)*
 - Rod Canion, *[Open: How Compaq Ended IBM's PC Domination and Helped Invent Modern Computing](https://www.amazon.com/Open-Compaq-Domination-Helped-Computing/dp/1937856992)*
